@@ -23,7 +23,7 @@ Before running this code, ensure you have the following installed:
 1. **Clone or Download the Project**:
    - Clone this project using Git:
      ```bash
-     git clone https://github.com/username/discord-bot-login.git
+     git clone https://github.com/rizqirehan/login_automation.git
      ```
    - Or download the ZIP file and extract it.
 
